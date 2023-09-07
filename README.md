@@ -2,6 +2,8 @@
 
 Welcome to SunGaming, your ultimate destination for thrilling and entertaining online casino games. This README.md file provides an overview of what SunGaming offers, including the games available, features, and how to get started.
 
+![alt text](https://portfolio-nextjs-ten-fawn.vercel.app/_next/image?url=%2Fimg%2FprojectsDetal%2Fcasinogame.png&w=640&q=100)
+
 ## Introduction
 
 SunGaming is a premier online casino platform that offers a wide range of casino games, including slots, table games, live dealer games, and more. Our platform is designed to provide players with a secure and immersive gaming experience, ensuring fair play and responsible gambling practices.
